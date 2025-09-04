@@ -197,7 +197,7 @@ layout: none
         
         <div class="status">
             <div class="dot"></div>
-            Coming soon
+            Site under construction
         </div>
         
         <div class="buttons">
