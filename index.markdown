@@ -201,7 +201,6 @@ layout: none
         </div>
         
         <div class="buttons">
-            <a href="https://jobs.stationf.co/companies/conception-dev/jobs/frontend-developer-ux-designer_paris" class="btn btn-secondary">We're hiring</a>
         </div>
     </div>
 </body>
