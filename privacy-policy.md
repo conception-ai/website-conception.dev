@@ -96,7 +96,3 @@ Conception AI Inc.
 2261 Market Street STE 85701
 San Francisco, CA 94114
 United States
-
----
-
-<p class="copyright">© 2025 Conception AI Inc. All rights reserved.</p>

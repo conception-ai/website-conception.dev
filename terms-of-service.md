@@ -109,10 +109,4 @@ Before legal proceedings, Parties agree to attempt good faith negotiation for at
 
 We may modify these Terms at any time. For material changes, we will provide at least 30 days notice. Your continued use after changes constitutes acceptance.
 
----
-
-*Last Updated: October 23, 2025*
-
-<p class="copyright">© 2025 Conception AI Inc. All rights reserved.</p>
-
 For questions: [contact@conception.dev](mailto:contact@conception.dev)
