@@ -108,3 +108,15 @@ Before legal proceedings, Parties agree to attempt good faith negotiation for at
 ## Changes to Terms
 
 We may modify these Terms at any time. For material changes, we will provide at least 30 days notice. Your continued use after changes constitutes acceptance.
+
+## How to Contact Us
+
+**By email:** [contact@conception.dev](mailto:contact@conception.dev)
+
+**By mail:**
+Conception AI Inc.
+2261 Market Street STE 85701
+San Francisco, CA 94114
+United States
+
+© 2025 Conception AI Inc. All rights reserved.
