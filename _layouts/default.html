@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+            background: #0d1117;
+            color: #c9d1d9;
+            line-height: 1.6;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 48px 24px;
+        }
+        h1 {
+            font-size: 2.5rem;
+            margin-bottom: 8px;
+            color: #ffffff;
+        }
+        h2 {
+            font-size: 1.75rem;
+            margin-top: 32px;
+            margin-bottom: 16px;
+            color: #ffffff;
+        }
+        h3 {
+            font-size: 1.25rem;
+            font-weight: 600;
+            margin-top: 24px;
+            margin-bottom: 12px;
+            color: #c9d1d9;
+        }
+        p {
+            margin-bottom: 12px;
+            color: #8b949e;
+        }
+        section {
+            margin-bottom: 24px;
+        }
+        .last-updated, .version {
+            font-style: italic;
+            color: #8b949e;
+            margin-bottom: 32px;
+        }
+        .warning {
+            background: rgba(187, 128, 9, 0.1);
+            border-left: 4px solid #d29922;
+            padding: 12px;
+            margin: 16px 0;
+            color: #c9d1d9;
+        }
+        .disclaimer {
+            font-size: 0.9rem;
+            background: rgba(88, 166, 255, 0.1);
+            border-left: 4px solid #58a6ff;
+            padding: 12px;
+            margin: 16px 0;
+            color: #c9d1d9;
+        }
+        .footer-info {
+            margin-top: 48px;
+            padding-top: 24px;
+            border-top: 1px solid rgba(255, 255, 255, 0.15);
+            text-align: center;
+        }
+        .copyright {
+            margin-top: 48px;
+            text-align: center;
+            color: #8b949e;
+            font-size: 0.9rem;
+        }
+        a {
+            color: #58a6ff;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        strong {
+            font-weight: 600;
+            color: #ffffff;
+        }
+        hr {
+            border: none;
+            border-top: 1px solid rgba(255, 255, 255, 0.15);
+            margin: 32px 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        {{ content }}
+    </div>
+</body>
+</html>
