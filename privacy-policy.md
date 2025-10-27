@@ -86,13 +86,3 @@ We are based in the United States. Information we collect may be transferred to,
 We may update our Privacy Policy from time to time. For material changes, we will provide notice at least 30 days before changes take effect via email or a notice within the Services.
 
 Your continued use of the Services after modifications constitutes your acknowledgment and acceptance of the modified Privacy Policy.
-
-## How to Contact Us
-
-**By email:** [contact@conception.dev](mailto:contact@conception.dev)
-
-**By mail:**
-Conception AI Inc.
-2261 Market Street STE 85701
-San Francisco, CA 94114
-United States

@@ -108,5 +108,3 @@ Before legal proceedings, Parties agree to attempt good faith negotiation for at
 ## Changes to Terms
 
 We may modify these Terms at any time. For material changes, we will provide at least 30 days notice. Your continued use after changes constitutes acceptance.
-
-For questions: [contact@conception.dev](mailto:contact@conception.dev)
